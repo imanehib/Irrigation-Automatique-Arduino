@@ -55,13 +55,6 @@ Irrigation-Automatique-Arduino/
   - Réduction significative du gaspillage d’eau  
   - Automatisation complète de l’arrosage  
 
----
-
-## 🖼️ Aperçu
-Quelques images du montage :  
-
-![Montage Arduino](Images/proto_circuit.jpg)  
-![Test Arrosage](Images/proto_arrosage.jpg)  
 
 ---
 
