@@ -42,13 +42,11 @@ Ce système lit en temps réel les données de capteurs (humidité du sol, temp�
 
 
 
-````markdown
 ## 📖 Utilisation
 
 1. Cloner le repo :
    ```bash
    git clone https://github.com/imanehib/Irrigation-Automatique-Arduino.git
-````
 
 2. Ouvrir le code avec **Arduino IDE**.
 3. Charger le programme selon la configuration souhaitée (capteur ou minuterie).
