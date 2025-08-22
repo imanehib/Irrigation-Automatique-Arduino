@@ -17,7 +17,7 @@ Ce système lit en temps réel les données de capteurs (humidité du sol, temp�
 - 🌐 Possibilité d’évolution vers un système connecté (Wi-Fi).  
 
 ---
-
+````
 ## 📂 Structure du repository
 Irrigation-Automatique-Arduino/
 │── Code/ # Dossier contenant tous les codes et scripts
