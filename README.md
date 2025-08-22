@@ -56,7 +56,7 @@ Ce système lit en temps réel les données de capteurs (humidité du sol, temp�
 
 ## 👩‍💻 Auteur
 
-Projet réalisé par **Imane Hibaoui** dans le cadre d’un stage académique (2025).
+Projet réalisé par **Imane Hibaoui** dans le cadre d’un stage académique .
 
 ---
 
