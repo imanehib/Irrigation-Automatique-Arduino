@@ -82,7 +82,7 @@ Irrigation-Automatique-Arduino/
 
 Projet réalisé par **Imane Hibaoui** dans le cadre d’un stage académique 2025.
 
-s
+
 
 ##  Licence
 
