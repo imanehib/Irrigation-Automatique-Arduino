@@ -55,22 +55,13 @@ Ce système lit en temps réel les données de capteurs (humidité du sol, temp�
 
 
 
-## 📚 Références
-
-* [Documentation Arduino Uno](https://docs.arduino.cc/hardware/uno-rev3)
-* [Google Colab Notebook](https://colab.research.google.com/)
-* Articles récents (2024–2025) sur l’irrigation intelligente.
-
-
 
 ## 👩‍💻 Auteur
+Projet réalisé par **Imane Hibaoui** dans le cadre d’un stage académique (2025).  
 
-Projet réalisé par **Imane Hibaoui** dans le cadre d’un stage académique 2025.
+---
 
-
-
-##  Licence
-
-Ce projet est distribué sous licence **MIT** – utilisation libre avec attribution.
+## 📜 Licence
+Ce projet est distribué sous licence **MIT** – utilisation libre avec attribution. 
 
 
