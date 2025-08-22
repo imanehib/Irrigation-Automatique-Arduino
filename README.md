@@ -53,15 +53,11 @@ Ce système lit en temps réel les données de capteurs (humidité du sol, temp�
 3. Charger le programme selon la configuration souhaitée (capteur ou minuterie).
 4. (Optionnel) Tester le modèle ML dans `irrigation_auto_ML_eval.ipynb` via **Google Colab**.
 
-
-
-
-### 👩‍💻 Auteur
+###👩‍💻 Auteur
 Projet réalisé par **Imane Hibaoui** dans le cadre d’un stage académique (2025).  
 
 ---
 
 ### 📜 Licence
 Ce projet est distribué sous licence **MIT** – utilisation libre avec attribution. 
-
 
