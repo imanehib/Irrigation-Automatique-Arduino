@@ -7,7 +7,7 @@ Automatic irrigation system using Arduino Uno, soil moisture sensor, relay modul
 Un projet d’irrigation automatique basé sur **Arduino Uno** et enrichi par des techniques de **Machine Learning** pour optimiser l’utilisation de l’eau.  
 Ce système lit en temps réel les données de capteurs (humidité du sol, température, etc.) et déclenche une pompe uniquement lorsque c’est nécessaire.  
 
----
+
 
 ## 🚀 Fonctionnalités
 - 💧 **Arrosage intelligent** basé sur l’humidité du sol.  
@@ -16,7 +16,7 @@ Ce système lit en temps réel les données de capteurs (humidité du sol, temp�
 - 📊 **Analyse par Machine Learning** (Arbre de décision, Random Forest, SVM, etc.) pour prédire le besoin en arrosage.  
 - 🌐 Possibilité d’évolution vers un système connecté (Wi-Fi).  
 
----
+
 ````
 ## 📂 Structure du repository
 Irrigation-Automatique-Arduino/
@@ -33,7 +33,7 @@ Irrigation-Automatique-Arduino/
 │── README.md # Documentation du projet
 ````
 
----
+
 
 ## ⚙️ Matériel utilisé
 - **Arduino Uno** (ATmega328P)  
@@ -42,7 +42,7 @@ Irrigation-Automatique-Arduino/
 - **Pompe submersible + relais 5V**  
 - **Alimentation externe / USB**  
 
----
+
 
 ## 🔬 Résultats
 - **Précision du modèle ML :**
@@ -56,7 +56,7 @@ Irrigation-Automatique-Arduino/
   - Automatisation complète de l’arrosage  
 
 
----
+
 
 ## 📖 Utilisation
 1. Cloner le repo :
@@ -68,7 +68,7 @@ Irrigation-Automatique-Arduino/
 3. Charger le programme selon la configuration souhaitée (capteur ou minuterie).
 4. (Optionnel) Tester le modèle ML dans `irrigation_auto_ML_eval.ipynb` via **Google Colab**.
 
----
+
 
 ## 📚 Références
 
@@ -76,13 +76,13 @@ Irrigation-Automatique-Arduino/
 * [Google Colab Notebook](https://colab.research.google.com/)
 * Articles récents (2024–2025) sur l’irrigation intelligente.
 
----
+
 
 ## 👩‍💻 Auteur
 
 Projet réalisé par **Imane Hibaoui** dans le cadre d’un stage académique 2025.
 
----
+s
 
 ##  Licence
 
