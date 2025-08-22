@@ -19,20 +19,18 @@ Ce système lit en temps réel les données de capteurs (humidité du sol, temp�
 ---
 
 ## 📂 Structure du repository
-```
-
 Irrigation-Automatique-Arduino/
-│── Code/                  # Codes Arduino (.ino) et scripts ML
-│   ├── Automatic\_Watering\_System\_\_Timer.ino
-│   ├── Automatic\_Watering\_System\_\_Sensor.ino
-│   ├── irrigation\_auto\_ML\_eval.ipynb
-│   └── t1.py
+│── Code/ # Dossier contenant tous les codes et scripts
+│ ├── 1Automatic_Watering_System__Timer.ino # Gestion de l’arrosage par minuterie
+│ ├── Automatic_Watering_System__Sensor.ino # Gestion de l’arrosage par capteur d’humidité
+│ ├── irrigation_auto_ML_eval.ipynb # Notebook d’évaluation des modèles ML
+│ ├── t1.py # Script Python annexe
+│ └── test_aug12a.ino # Test de la pompe à eau
 │
-│── Images/                # Photos et schémas du montage
+│── Images/ # Dossier contenant les images et schémas
 │
-│── LICENSE
-│── README.md
-
+│── LICENSE # Licence du projet (MIT)
+│── README.md # Documentation du projet
 ````
 
 ---
