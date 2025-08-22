@@ -2,7 +2,7 @@
 Automatic irrigation system using Arduino Uno, soil moisture sensor, relay module and machine learning integration.
 
 
-## 🌱 Irrigation-Automatique-Arduino
+# 🌱 Irrigation-Automatique-Arduino
 
 Un projet d’irrigation automatique basé sur **Arduino Uno** et enrichi par des techniques de **Machine Learning** pour optimiser l’utilisation de l’eau.  
 Ce système lit en temps réel les données de capteurs (humidité du sol, température, etc.) et déclenche une pompe uniquement lorsque c’est nécessaire.  
