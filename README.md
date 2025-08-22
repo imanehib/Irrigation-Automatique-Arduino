@@ -17,20 +17,6 @@ Ce système lit en temps réel les données de capteurs (humidité du sol, temp�
 - 🌐 Possibilité d’évolution vers un système connecté (Wi-Fi).  
 
 
-````
-## 📂 Structure du repository
-Irrigation-Automatique-Arduino/
-│── Code/ # Codes et scripts Arduino / Python
-│ ├── Automatic_Watering_System__Timer.ino # Gestion de l’arrosage par minuterie
-│ ├── Automatic_Watering_System__Sensor.ino # Gestion par capteur d’humidité
-│ ├── irrigation_auto_ML_eval.ipynb # Notebook d’évaluation des modèles ML
-│ ├── t1.py # Script Python annexe
-│ └── test_aug12a.ino # Test de la pompe à eau
-│
-│── Images/ # Images et schémas
-│── LICENSE # Licence MIT
-│── README.md # Documentation du projet
-````
 
 
 
