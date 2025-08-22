@@ -56,12 +56,12 @@ Ce système lit en temps réel les données de capteurs (humidité du sol, temp�
 
 
 
-## 👩‍💻 Auteur
+### 👩‍💻 Auteur
 Projet réalisé par **Imane Hibaoui** dans le cadre d’un stage académique (2025).  
 
 ---
 
-## 📜 Licence
+### 📜 Licence
 Ce projet est distribué sous licence **MIT** – utilisation libre avec attribution. 
 
 
